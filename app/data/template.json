@@ -1,0 +1,14 @@
+{
+  "id": "kgt-blue-a4-duplex",
+  "name": "康高特科技蓝 · 参数型双页彩页",
+  "size": "A4竖版",
+  "pages": 2,
+  "font": "Alibaba PuHuiTi",
+  "background": "/assets/templates/leaflet/background.png",
+  "previews": [
+    "/assets/templates/leaflet/preview-page-1.png",
+    "/assets/templates/leaflet/preview-page-2.png"
+  ],
+  "editable": ["产品名称", "产品型号", "产品介绍", "核心卖点", "应用领域", "产品主图", "产品界面截图", "参数表"],
+  "locked": ["公司Logo", "品牌装饰", "底部口号", "二维码"]
+}
