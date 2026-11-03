@@ -6,6 +6,8 @@ node_modules.old-junction/
 .next/
 dist/
 build/
+out/
+outputs/
 .wrangler/
 .analysis_frames/
 *.tsbuildinfo
